@@ -1,0 +1,18 @@
+{
+  "name": "rankr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@shopify/draggable": "^1.0.0-beta.8",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7",
+    "urlencode": "^1.1.0"
+  }
+}
